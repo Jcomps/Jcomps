@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jawad</h1>
-<h3 align="center">Freelance Web Developer and aspiring student</h3>
+<h3 align="center">Freelance Web Developer and Aspiring Student</h3>
 
 - 🔭 I’m currently working on **a chatting app using React and Firebase**
 
