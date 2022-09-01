@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Tailwind and TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Jcomps](https://github.com/Jcomps)
+- 👨‍💻 All of my projects are available at [https://github.com/Jcomps?tab=repositories](https://github.com/Jcomps?tab=repositories)
 
 - 📫 How to reach me **Jawad-awadaa@hotmail.com**
 
